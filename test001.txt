@@ -4,3 +4,13 @@
 4. 브런치(가지) 해당 소스를 저장
 5. 업로드
 6. 주소에 저장완료
+
+git init
+git remote add origin [repository addr]
+git config --global user.email [email addr]
+git status
+git add .
+git commit -m "message"
+git push -u origin [branch name]
+
+
